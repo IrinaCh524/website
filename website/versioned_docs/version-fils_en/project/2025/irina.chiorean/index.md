@@ -47,6 +47,10 @@ As of right now, I have a prototype that has LEDs and buttons instead of the mot
 
 I replaced the leds and coded the game with the servo-motors and switches. 
 
+### Week 19 - 25 May
+
+I made the 3D models for the mole game.
+
 ## Hardware
 
 ![Photo](./whack_a_mole_leds.webp)
